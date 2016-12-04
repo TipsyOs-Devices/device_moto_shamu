@@ -1,0 +1,14 @@
+[
+  {
+  "remote":     "github",
+  "repository": "CyanogenMod/android_kernel_moto_shamu",
+  "target_path": "kernel/motorola/shamu",
+  "branch": "cm-14.1"
+  },
+  {
+  "remote":     "github",  
+  "repository": "TheMuppets/proprietary_vendor_motorola",
+  "target_path": "vendor/motorola",
+  "branch": "cm-14.1"
+  }
+]
