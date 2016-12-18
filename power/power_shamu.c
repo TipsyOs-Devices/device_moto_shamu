@@ -356,4 +356,3 @@ struct power_module HAL_MODULE_INFO_SYM = {
     .setFeature = set_feature,
     .getFeature = get_feature
 };
-
