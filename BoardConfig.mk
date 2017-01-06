@@ -22,6 +22,8 @@ TARGET_CPU_VARIANT := krait
 
 ENABLE_CPUSETS := true
 
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
 TARGET_NO_BOOTLOADER := true
 
 # Inline kernel building
