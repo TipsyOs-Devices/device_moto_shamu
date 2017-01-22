@@ -1,9 +1,9 @@
 [
   {
   "remote":     "github",
-  "repository": "CyanogenMod/android_kernel_moto_shamu",
-  "target_path": "kernel/motorola/shamu",
-  "branch": "cm-14.1"
+  "repository": "Alx31/kernel_moto_shamu",
+  "target_path": "kernel/motoro/shamu",
+  "branch": "alx-test"
   },
   {
   "remote":     "github",  
