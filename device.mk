@@ -396,8 +396,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
    fs_config_files
 
-PRODUCT_PROPERTY_OVERRIDES += \
-   ro.frp.pst=/dev/block/platform/msm_sdcc.1/by-name/frp
+# PRODUCT_PROPERTY_OVERRIDES += \
+#   ro.frp.pst=/dev/block/platform/msm_sdcc.1/by-name/frp
 
 # Delegation for OEM customization
 PRODUCT_OEM_PROPERTIES := \
