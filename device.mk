@@ -428,3 +428,7 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 # Browser
 PRODUCT_PACKAGES += \
     Gello
+    
+# GzR ka
+PRODUCT_PACKAGES += \
+    KernelAdiutor
