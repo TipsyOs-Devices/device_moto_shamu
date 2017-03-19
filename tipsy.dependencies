@@ -1,9 +1,9 @@
 [
   {
   "remote":     "github",
-  "repository": "Alx31/kernel_moto_shamu",
-  "target_path": "kernel/motoro/shamu",
-  "branch": "alx-test"
+  "repository": "GZR-Kernels/Shamu_Drunk_Kernel",
+  "target_path": "kernel/moto/shamu",
+  "branch": "n7.1"
   },
   {
   "remote":     "github",  
