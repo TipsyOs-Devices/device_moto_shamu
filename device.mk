@@ -443,3 +443,6 @@ PRODUCT_PACKAGES += \
 # GzR ka
 PRODUCT_PACKAGES += \
     KernelAdiutor
+
+# Root Method
+DEFAULT_ROOT_METHOD := rootless
