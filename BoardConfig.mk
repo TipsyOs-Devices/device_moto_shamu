@@ -154,4 +154,10 @@ BOARD_HARDWARE_CLASS := \
 # Enable real time lockscreen charging current values
 BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
 
+# Optimizations
+CLANG_O3 := true
+STRICT_ALIASING := true
+KRAIT_TUNINGS := true
+GRAPHITE_OPTS := true
+
 -include vendor/moto/shamu/BoardConfigVendor.mk
