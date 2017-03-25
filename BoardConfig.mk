@@ -31,6 +31,9 @@ TARGET_NO_BOOTLOADER := true
 # Block builds
 BLOCK_BASED_OTA=false
 
+# Root Method
+DEFAULT_ROOT_METHOD := rootless
+
 # Inline kernel building
 TARGET_KERNEL_CONFIG := shamu_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
