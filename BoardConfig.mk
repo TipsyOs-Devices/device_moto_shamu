@@ -28,9 +28,6 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 TARGET_NO_BOOTLOADER := true
 
-# Block builds
-BLOCK_BASED_OTA=false
-
 # Inline kernel building
 TARGET_KERNEL_CONFIG := shamu_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
