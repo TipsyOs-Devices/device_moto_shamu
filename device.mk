@@ -435,14 +435,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # OEM Unlock reporting
 ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.oem_unlock_supported=1
-
-# Browser
-PRODUCT_PACKAGES += \
-    Gello
-    
-# GzR ka
-PRODUCT_PACKAGES += \
-    KernelAdiutor
-
-# Root Method
-DEFAULT_ROOT_METHOD := rootless
