@@ -417,6 +417,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     af.fast_track_multiplier=1
 
+# Root Method
+DEFAULT_ROOT_METHOD := supersu
+
 # Low latency audio buffer size in frames
 PRODUCT_PROPERTY_OVERRIDES += \
     audio_hal.period_size=192
