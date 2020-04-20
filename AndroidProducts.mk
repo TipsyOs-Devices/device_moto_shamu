@@ -16,7 +16,7 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/validus_shamu.mk
+    $(LOCAL_DIR)/tipsy_shamu.mk
 
 COMMON_LUNCH_CHOICES := \
-    validus_shamu-userdebug
+    tipsy_shamu-userdebug

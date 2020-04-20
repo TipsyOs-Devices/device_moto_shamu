@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "gh",
+    "repository": "GZR-Kernels/kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu",
+    "branch": "10.0"
+  },
+  {
+    "remote": "gh",
+    "repository": "BigTopKrazies/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "10.0"
+  }
+]
