@@ -38,6 +38,9 @@ PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 6
 PRODUCT_MANUFACTURER := motorola
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.tipsy.maintainer="sparx"
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=shamu \
     PRIVATE_BUILD_DESC="shamu-user 7.1.1 N6F27M 4299435 release-keys"
